@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
- :poultry_leg: Beating DeepFood paper. Computer Vision Project. :hotdog: <br>
+ :hotdog: Beating DeepFood paper. Computer Vision Project. <br>
 </h1>
 
 <p align="center">
@@ -16,11 +16,11 @@
 Worldwide, in 2014, more than 1.9 billion adults, 18 years and older, were overweight. Of these, over 600 million were obese. Accurately documenting dietary caloric intake is crucial to manage weight loss, but also presents challenges because most of the current methods for dietary assessment must rely on memory to recall foods eaten. The ultimate goal of our research is to develop computer-aided technical solutions to enhance and improve the accuracy of current measurements of dietary intake. Our proposed system in this paper aims to improve the accuracy of dietary assessment by analyzing the food images captured by mobile devices (e.g., smartphone). The key technique innovation in this paper is the deep learning-based food image recognition algorithms. Substantial research has demonstrated that digital imaging accurately estimates dietary intake in many environments and it has many advantages over other methods. However, how to derive the food information (e.g., food type and portion size) from food image effectively and efficiently remains a challenging and open research problem. We propose a new Convolutional Neural Network (CNN)-based food image recognition algorithm to address this problem. We applied our proposed approach to two real-world food image data sets (UEC-256 and Food-101) and achieved impressive results. To the best of our knowledge, these results outperformed all other reported work using these two data sets. Our experiments have demonstrated that the proposed approach is a promising solution for addressing the food image recognition problem. Our future work includes further improving the performance of the algorithms and integrating our system into a real-world mobile and cloud computing-based system to enhance the accuracy of current measurements of dietary intake.
 
 
-![pic1](https://www.researchgate.net/publication/304163308/figure/fig1/AS:375253764198400@1466478877722/Inception-Module.png)
+![pic1](https://github.com/boramorka/usercontent/blob/main/deepfood/Inception-Module.png?raw=true)
 
-![pic2](https://www.researchgate.net/publication/304163308/figure/fig2/AS:375253764198401@1466478877750/Module-connection.png)
+![pic2](https://github.com/boramorka/usercontent/blob/main/deepfood/Module-connection.png?raw=true)
 
-![pic3](https://www.researchgate.net/publication/304163308/figure/tbl1/AS:669301463851032@1536585312814/Comparison-of-accuracy-of-proposed-approach-using-bounding-box-on-UEC-256.png)
+![pic3](https://github.com/boramorka/usercontent/blob/main/deepfood/Comparison-of-accuracy-of-proposed-approach-using-bounding-box-on-UEC-256.png?raw=true)
 
 
 ## About Methods
